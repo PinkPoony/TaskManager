@@ -45,3 +45,7 @@ TaskManager/
 │   ├── AddTaskView.swift
 │   └── Components/
 └── Assets.xcassets
+
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-26 at 22 01 45" src="https://github.com/user-attachments/assets/94a81348-ef2f-4960-8d81-06452a7f868d" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-26 at 22 01 51" src="https://github.com/user-attachments/assets/8e8cf512-93b8-4ed4-85ab-08ffdec952c8" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-26 at 22 04 53" src="https://github.com/user-attachments/assets/1a10bff8-14be-43a1-b776-aa887563fed5" />
